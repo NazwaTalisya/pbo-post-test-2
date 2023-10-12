@@ -44,8 +44,8 @@
   </ul>
   <li>Class Restoran</li>
   <p>Restoran adalah kelas yang merepresentasikan item-menu dalam restoran. Kelas ini memiliki tiga atribut: id, name, dan price. id adalah angka unik yang mengidentifikasi setiap menu, name adalah nama menu, dan price adalah harga dari menu tersebut. Kelas ini memiliki konstruktor untuk inisialisasi objek, serta beberapa metode untuk mendapatkan dan mengatur nilai dari atribut-atribut tersebut.</p>
-  
-<h2>C. Penjelasan Output</h2>
+
+  <h2>C. Penjelasan Output</h2>
 <ol>
   <li>create</li>
 
@@ -92,5 +92,3 @@
   <p>jika user menginputkan 5 maka program akan selesai</p>
 
 </ol>
-
-<h1>TAMAT</h1>
